@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1557354366 source:c:\users\bruch\desktop\libreria\fecha.c
+
+1557362891 source:c:\users\bruch\desktop\libreria\sectores.c
+	"empleados.h"
+
+1557363084 source:c:\users\bruch\desktop\libreria\menus.c
+	"menus.h"
+
+1557363077 c:\users\bruch\desktop\libreria\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1557364931 source:c:\users\bruch\desktop\libreria\empleados.c
+	"empleados.h"
+	"validaciones.h"
+
+1557364931 c:\users\bruch\desktop\libreria\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557354476 c:\users\bruch\desktop\libreria\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557356798 c:\users\bruch\desktop\libreria\sectores.h
+
+1557363757 source:c:\users\bruch\desktop\libreria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleados.h"
+	"validaciones.h"
+	"menus.h"
+
+1557358119 c:\users\bruch\desktop\libreria\sector.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleados.h"
+
+1557363057 c:\users\bruch\desktop\libreria\estructuras.h
+
+1557364500 c:\users\bruch\desktop\libreria\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"empleados.h"
+
+1557364676 source:c:\users\bruch\desktop\libreria\validaciones.c
+	"empleados.h"
+	"validaciones.h"
+
+1557365282 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\empleados.c
+	"empleados.h"
+	"validaciones.h"
+
+1557520141 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557364500 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"empleados.h"
+
+1557456520 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\hardcodeo.c
+	"empleados.h"
+	"validaciones.h"
+
+1557363084 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\menus.c
+	"menus.h"
+
+1557363077 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1557364947 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\output.c
+	"empleados.h"
+	"validaciones.h"
+
+1557362891 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\sectores.c
+	"empleados.h"
+
+1557364676 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\validaciones.c
+	"empleados.h"
+	"validaciones.h"
+
+1557456501 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\libreria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleados.h"
+	"validaciones.h"
+	"menus.h"
+
